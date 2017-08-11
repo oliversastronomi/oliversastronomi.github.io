@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Play');
+
+#mina-objekt-rubrik {
+	text-align: center;
+	color: #ffaa00;
+	font-size: 50px;
+	font-family: 'Play', sans-serif;
+}
+
+.objekt-rubrik {
+	color: skyblue;
+	text-align: center;
+}
+
+#orion {
+	width: 80%;
+}
+
+p {
+	text-align: center;
+}
+
+#startsida {
+	background-image: url("../bilder/galaxy.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	position: relative;
+}
